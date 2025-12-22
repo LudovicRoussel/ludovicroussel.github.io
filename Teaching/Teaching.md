@@ -4,6 +4,6 @@ permalink: /Teaching/
 title: "Teaching"
 urlcolor: blue
 ---
- - Winter 2025 - Macro I (Phd First year) : Teaching Assistant for  **[Alexander Ludwig](https://alexander-ludwig.com/)** (EUI) 
+ Macroeconomics I, PhD compulsory course, European University Institute : Teaching Assistant to Prof. **[Alexander Ludwig](https://alexander-ludwig.com/)**
 
 &nbsp;  
