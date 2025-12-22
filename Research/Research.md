@@ -4,7 +4,6 @@ permalink: /Research/
 title: "Research"
 ---
 
-<div class="research-section-title">Working Papers</div>
 <div class="research-section-title">Work in Progress</div>
 
 
