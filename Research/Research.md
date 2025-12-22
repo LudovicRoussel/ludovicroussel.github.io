@@ -17,7 +17,7 @@ title: "Research"
 
 &nbsp;
 
-[Households’ Expenditure Commitments: Formation, Heterogeneity and Adjustment to Income Shocks]
+"Households’ Expenditure Commitments: Formation, Heterogeneity and Adjustment to Income Shocks"
 
 <p align="justify">
 <sub>
