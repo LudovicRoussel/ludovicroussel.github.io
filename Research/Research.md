@@ -23,7 +23,13 @@ This project studies how households’ fixed expenditure commitments shape their
 </p>
 
 &nbsp;
-"Intergenerational Income Risks" with 
+<div class="paper-title">
+“Expenditure risks”
+</div>
 
+&nbsp;
+<div class="paper-title">
+“Intergenerational Income Risks”
+</div>
 
 &nbsp;
