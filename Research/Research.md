@@ -23,14 +23,17 @@ This project studies how households’ fixed expenditure commitments shape their
 </p>
 
 <div class="paper-title">
-“Intergenerational Income Risks”
-<em>
-with
-<a href="https://andrejmijakovic.github.io/research/" target="_blank">Andrej Mijakovic</a>
-and
-<a href="https://www.janmazza.com/" target="_blank">Jan Mazza</a>
-</em>
+  <span class="paper-title-text">
+    “Intergenerational Income Risks”
+  </span>
+  <em>
+    with
+    <a href="https://andrejmijakovic.github.io" target="_blank">Andrej Mijakovic</a>
+    and
+    <a href="https://www.janmazza.com/" target="_blank">Jan Mazza</a>
+  </em>
 </div>
+
 
 
 <div class="paper-title">
