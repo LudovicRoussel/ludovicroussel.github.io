@@ -1,14 +1,20 @@
+/* ===============================
+   Global variables
+   =============================== */
+
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 
-/* Couleur principale : bleu clair de la chemise */
+/* Bleu clair (chemise) */
 $lightBlue: #6fa3d8;
 
 $bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI",
             Helvetica, Arial, sans-serif,
             "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
-$linkColor: #212529 !important;
+/* ===============================
+   Base
+   =============================== */
 
 body {
   background: $backgroundColor;
@@ -17,51 +23,72 @@ body {
 }
 
 /* Liens */
-body a {
-  color: $linkColor;
+a {
+  color: $bodyColor;
   text-decoration: none;
 }
 
-body a:hover {
+a:hover {
   color: $lightBlue;
   text-decoration: underline;
 }
 
-/* Titres principaux (Nom, Research, Teaching, etc.) */
-h1 {
-  color: $lightBlue;
+/* ===============================
+   Header / Site title
+   =============================== */
+
+/* Nom du site : "Ludovic Roussel" */
+.site-title,
+.site-title a {
+  color: $lightBlue !important;
+  font-weight: 700;
+}
+
+/* ===============================
+   Page titles (Research, Teaching, etc.)
+   =============================== */
+
+.page-title,
+.page-title h1,
+h1.page-title,
+main h1 {
+  color: $lightBlue !important;
   font-size: 2.3em;
   font-weight: 700;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.8em;
 }
 
-/* Titres de niveau intermédiaire */
-h2 {
-  color: $lightBlue;
-  font-size: 1.45em;
-  font-weight: 650;
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
+/* Supprimer toute ligne sous le titre de page */
+.page-title {
+  border-bottom: none !important;
 }
 
-h3 {
-  color: $lightBlue;
-  font-size: 1.2em;
-  font-weight: 650;
-  margin-top: 1em;
-  margin-bottom: 0.4em;
-}
+/* ===============================
+   Section titles inside pages
+   =============================== */
 
-/* Sous-sections Research : Working Papers / Work in Progress */
+/* Working Papers / Work in Progress */
 .research-section-title {
   color: $lightBlue;
   font-weight: 650;
-  font-size: 1.05em;   // plus petit que Research
+  font-size: 1.05em;   /* plus petit que Research */
   margin-top: 1.4em;
   margin-bottom: 0.6em;
 }
 
-/* Titres de papiers */
+/* ===============================
+   Other headings (fallback)
+   =============================== */
+
+h2, h3, h4 {
+  color: $lightBlue;
+  font-weight: 650;
+}
+
+/* ===============================
+   Paper titles
+   =============================== */
+
 .paper-title {
   color: $bodyColor;
   font-weight: 600;
@@ -73,4 +100,12 @@ h3 {
 
 .paper-title a:hover {
   color: $lightBlue;
+}
+
+/* ===============================
+   Paragraph spacing (comfort)
+   =============================== */
+
+p {
+  line-height: 1.6;
 }
