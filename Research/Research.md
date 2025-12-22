@@ -4,16 +4,12 @@ permalink: /Research/
 title: "Research"
 ---
 
-<div align="center">
- <b class="section-title">Working Papers</b>
-</div>
-&nbsp;
+<div class="research-section-title">Working Papers</div>
 
-&nbsp;
+<p><em>Coming soon.</em></p>
 
-<div align="center">
-  <b class="section-title">Work in Progress</b>
-</div>
+<div class="research-section-title">Work in Progress</div>
+
 
 &nbsp;
 
@@ -30,5 +26,9 @@ This project studies how households’ fixed expenditure commitments shape their
 <b>Presented at:</b> EUI 2nd Year May Forum; PSID Annual Users Conference (2025)
 </sub>
 </p>
+
+&nbsp;
+"Intergenerational Income Risks" with 
+
 
 &nbsp;
