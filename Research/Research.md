@@ -53,7 +53,7 @@ This project studies how households’ fixed expenditure commitments shape their
 </div>
 
 <p>
-<em>Institut Avant-Garde (IAG), septembre 2025 — en français</em>
+<em>Institut Avant-Garde (IAG), septembre 2025 (in french)</em>
 </p>
 
 <div class="paper-title">
@@ -63,5 +63,5 @@ This project studies how households’ fixed expenditure commitments shape their
 </div>
 
 <p>
-<em>Institut Avant-Garde (IAG), janvier 2025 — en français</em>
+<em>Institut Avant-Garde (IAG), janvier 2025 (in french)</em>
 </p>
