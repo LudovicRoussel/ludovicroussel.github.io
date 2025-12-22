@@ -24,7 +24,7 @@ This project studies how households’ fixed expenditure commitments shape their
 
 &nbsp;
 <div class="paper-title">
-“Expenditure risks”
+“Households’ Expenditure risks”
 </div>
 
 &nbsp;
