@@ -48,7 +48,7 @@ This project studies how households’ fixed expenditure commitments shape their
 
 <div class="paper-title">
   <a href="https://www.institutavantgarde.fr/le-cout-electoral-de-linflation/" target="_blank">
-    Le coût électoral de l’inflation
+    "Le coût électoral de l’inflation"
   </a>
 </div>
 
@@ -58,7 +58,7 @@ This project studies how households’ fixed expenditure commitments shape their
 
 <div class="paper-title">
   <a href="https://www.institutavantgarde.fr/letat-providence-a-lepreuve-de-nouvelles-crises/" target="_blank">
-    L’État-providence à l’épreuve de nouvelles crises
+    "L’État-providence à l’épreuve de nouvelles crises"
   </a>
 </div>
 
