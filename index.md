@@ -3,14 +3,12 @@ layout: home
 title: "Ludovic Roussel"
 ---
 
-I am a 3rd year PhD Candidate in economics at the European University Institute (EUI), under the supervision of [Alexander Ludwig](https://alexander-ludwig.com/)(EUI) and [Alexander Monge-Naranjo](https://alexandermonge.com/)(FED Atlanta).
+I am a 3rd year PhD Candidate in economics at the European University Institute (EUI), under the supervision of **[Alexander Ludwig](https://alexander-ludwig.com/)** (EUI) and **[Alexander Monge-Naranjo](https://alexandermonge.com/)** (FED Atlanta).
 
-My research lies at the intersection of household finance, macroeconomics, and public policy. I study how households respond to income and expenditure risk, and how these risks interact with expenditure commitments, savings behavior, and inequality. My work combines microdata analysis (administrative and survey data) with quantitative heterogeneous-agent models to assess welfare and policy implications.
+My research lies at the intersection of **household finance, macroeconomics, and public policy**. I am currently working on projects on expenditure commitments and adjustment to income shocks, households expenditure risk, as well as intergenerational income risk and savings behavior.
 
-I am currently working on projects on expenditure commitments and adjustment to income shocks, expenditure risk and financial fragility, as well as intergenerational income risk and savings behavior.
+You can contact me at <u>ludovic.roussel(at)eui.eu</u>.
 
-You can contact me at ludovic.roussel(at)eui.eu,  
-[download my CV]({{ site.baseurl }}/assets/CV_Ludovic_Roussel.pdf),  
-and find me on [Bluesky](https://bsky.app/profile/ludovicroussel.bsky.social) and [X](https://x.com/Ludo_Rl).
+I am also on [Bluesky](https://bsky.app/profile/ludovicroussel.bsky.social) and [X](https://x.com/Ludo_Rl).
 
 &nbsp;

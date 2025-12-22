@@ -1,11 +1,21 @@
+/* ===============================
+   Variables
+   =============================== */
+
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$navyBlue: #0b2545;   // Navy académique (sobre, élégant)
+
+/* Couleurs */
+$navyBlue:  #0b2545;   // titres principaux (Research, nom, etc.)
+$lightBlue: #6fa3d8;   // titres des papiers (chemise)
+
 $bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI",
             Helvetica, Arial, sans-serif,
             "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
-$linkColor: #212529 !important;
+/* ===============================
+   Base
+   =============================== */
 
 body {
   background: $backgroundColor;
@@ -14,30 +24,122 @@ body {
 }
 
 /* Liens */
-body a {
-  color: $linkColor;
+a {
+  color: $bodyColor;
+  text-decoration: none;
 }
 
-/* Titres principaux */
-h1, h2, h3, h4 {
-  color: $navyBlue;
-  font-weight: 600;
+a:hover {
+  color: $lightBlue;
+  text-decoration: underline;
 }
 
-/* Titres de sections type Research / Working Papers */
-.section-title {
+/* ===============================
+   Header / Site title
+   =============================== */
+
+/* Nom du site */
+.site-title,
+.site-title a {
+  color: $navyBlue !important;
+  font-weight: 700;
+}
+
+/* ===============================
+   Page titles (Research, Teaching…)
+   =============================== */
+
+.page-title,
+.page-title h1,
+h1.page-title,
+main h1 {
+  color: $navyBlue !important;
+  font-size: 2.3em;
+  font-weight: 700;
+  margin-bottom: 0.6em;
+}
+
+/* Ligne uniquement sous le titre de page (Research) */
+.page-title {
+  border-bottom: 1px solid #e3e6ea;
+  padding-bottom: 0.4em;
+}
+
+/* ===============================
+   Sous-sections Research
+   =============================== */
+
+/* Working Papers / Work in Progress */
+.research-section-title {
   color: $navyBlue;
+  font-weight: 650;
+  font-size: 1.05em;   // plus petit que Research
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+/* ===============================
+   Titres de papiers
+   =============================== */
+
+.paper-title {
+  color: $lightBlue;     // bleu clair chemise
   font-weight: 600;
   font-size: 1.05em;
-  letter-spacing: 0.02em;
+  margin-bottom: 0.2em;
 }
 
-/* Optionnel : titres cliquables de papiers */
 .paper-title a {
-  color: $navyBlue;
-  font-weight: 500;
+  color: $lightBlue;
 }
 
 .paper-title a:hover {
   text-decoration: underline;
+}
+/* Titres de papiers : en gras */
+.paper-title,
+.paper-title a {
+  font-weight: 700;   // gras net mais propre
+}
+
+
+/* Espacement entre les papiers */
+.paper-title {
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+/* ===============================
+   Autres titres (fallback)
+   =============================== */
+
+h2, h3, h4 {
+  color: $navyBlue;
+  font-weight: 650;
+}
+
+/* ===============================
+   Confort de lecture
+   =============================== */
+
+p {
+  line-height: 1.6;
+}
+
+
+/* === FORCER Research & sous-sections en navy (comme le nom) === */
+
+$pageNavy: #0b2545;
+
+/* Titre de page : Research */
+.page-title,
+.page-title h1,
+h1.page-title,
+main h1 {
+  color: $pageNavy !important;
+}
+
+/* Sous-sections : Working Papers / Work in Progress */
+.research-section-title {
+  color: $pageNavy !important;
 }
