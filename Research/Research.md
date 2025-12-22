@@ -42,3 +42,26 @@ This project studies how households’ fixed expenditure commitments shape their
 
 
 &nbsp;
+
+
+<div class="research-section-title">Policy notes</div>
+
+<div class="paper-title">
+  <a href="https://www.institutavantgarde.fr/le-cout-electoral-de-linflation/" target="_blank">
+    "Le coût électoral de l’inflation"
+  </a>
+</div>
+
+<p>
+<em>Institut Avant-Garde (IAG), january 2025 (in french)</em>
+</p>
+
+<div class="paper-title">
+  <a href="https://www.institutavantgarde.fr/letat-providence-a-lepreuve-de-nouvelles-crises/" target="_blank">
+    "L’État-providence à l’épreuve de nouvelles crises"
+  </a>
+</div>
+
+<p>
+<em>Institut Avant-Garde (IAG), september 2025 (in french)</em>
+</p>
