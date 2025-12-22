@@ -41,3 +41,13 @@ h1, h2, h3, h4 {
 .paper-title a:hover {
   text-decoration: underline;
 }
+
+/* Sous-titres Research */
+.research-section-title {
+  color: $navyBlue;
+  font-weight: 600;
+  font-size: 1.15em;   // plus gros que le texte, plus petit que h1/h2
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
