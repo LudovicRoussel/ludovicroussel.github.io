@@ -1,24 +1,16 @@
 ---
 layout: home
-title: "Aliénor Bisantis"
+title: "Ludovic Roussel"
 ---
 
-I am a 4th year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE) under the supervision of [Yann Bramoullé](https://sites.google.com/site/bramoulley/)  and [Roberta Ziparo](https://sites.google.com/site/rziparo/).
+I am a 3rd year PhD Candidate in economics at the European University Institute (EUI), under the supervision of [Alexander Ludwig](https://alexander-ludwig.com/) and [Alexander Monge-Naranjo](https://alexandermonge.com/).
 
-In my research, I document gender gaps across academic disciplines and examine how competition in male-dominated environments affects women's performance and career trajectories.
+My research lies at the intersection of household finance, macroeconomics, and public policy. I study how households face and manage income and expenditure risks, with a particular focus on expenditure commitments, precautionary savings, and inequality. My work combines microdata analysis (administrative and survey data) with quantitative heterogeneous-agent models to assess welfare and policy implications.
 
-I was visiting Boston University in Spring 2025, invited by Professor [Patricia Cortés](https://sites.google.com/site/pcortesbu/) and DIW Berlin in June 2025, invited by Professor [Katharina Wrohlich](https://scholar.google.de/citations?user=dJY35cYAAAAJ&hl=de).
+I am currently working on projects on expenditure commitments and adjustment to income shocks, expenditure risk and financial fragility, as well as intergenerational income risk and savings behavior.
 
-**I will be on the 2025-2026 Economic Job Market.**
+You can contact me at ludovic.roussel(at)eui.eu,  
+[download my CV]({{ site.baseurl }}/assets/CV_Ludovic_Roussel.pdf),  
+and find me on [Bluesky](https://bsky.app/profile/ludovicroussel.bsky.social) and [X](https://x.com/Ludo_Rl).
 
-You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ site.github.url }}/assets//CVBISANTISAlienor_Nov2025.pdf)
-
-[Also on X](https://twitter.com/bisalienor) and [Bluesky.](https://bsky.app/profile/bisalienor.bsky.social)
-
-&nbsp;  
-
-
-
-&nbsp;  
-
-
+&nbsp;
