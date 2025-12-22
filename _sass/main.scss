@@ -1,6 +1,10 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$navyBlue: #0b2545;   // Navy académique (sobre, élégant)
+$bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI",
+            Helvetica, Arial, sans-serif,
+            "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
 $linkColor: #212529 !important;
 
 body {
@@ -9,6 +13,31 @@ body {
   font-family: $bodyFont;
 }
 
+/* Liens */
 body a {
-  color: $linkColor
+  color: $linkColor;
+}
+
+/* Titres principaux */
+h1, h2, h3, h4 {
+  color: $navyBlue;
+  font-weight: 600;
+}
+
+/* Titres de sections type Research / Working Papers */
+.section-title {
+  color: $navyBlue;
+  font-weight: 600;
+  font-size: 1.05em;
+  letter-spacing: 0.02em;
+}
+
+/* Optionnel : titres cliquables de papiers */
+.paper-title a {
+  color: $navyBlue;
+  font-weight: 500;
+}
+
+.paper-title a:hover {
+  text-decoration: underline;
 }
