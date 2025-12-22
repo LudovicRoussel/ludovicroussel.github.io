@@ -9,8 +9,6 @@ title: "Research"
 </div>
 &nbsp;
 
-*Coming soon.*
-
 &nbsp;
 
 <div align="center">
