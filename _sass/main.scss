@@ -96,6 +96,11 @@ main h1 {
 .paper-title a:hover {
   text-decoration: underline;
 }
+/* Titres de papiers : en gras */
+.paper-title,
+.paper-title a {
+  font-weight: 700;   // gras net mais propre
+}
 
 /* ===============================
    Autres titres (fallback)
