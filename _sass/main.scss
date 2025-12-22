@@ -18,11 +18,18 @@ body a {
   color: $linkColor;
 }
 
-/* Titres principaux */
-h1, h2, h3, h4 {
-  color: $navyBlue;
-  font-weight: 600;
+h1 {
+  font-size: 2em;
 }
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
 
 /* Titres de sections type Research / Working Papers */
 .section-title {
