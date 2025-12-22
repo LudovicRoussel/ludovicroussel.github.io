@@ -6,8 +6,6 @@ title: "Research"
 
 <div class="research-section-title">Working Papers</div>
 
-<p><em>Coming soon.</em></p>
-
 <div class="research-section-title">Work in Progress</div>
 
 
