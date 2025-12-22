@@ -4,6 +4,6 @@ permalink: /Teaching/
 title: "Teaching"
 urlcolor: blue
 ---
-Macro I (EUI, Phd First year) - Teaching Assistant for  Alexander Ludwig - Winter 2025
+ - Winter 2025 - Macro I (Phd First year) : Teaching Assistant for  **[Alexander Ludwig](https://alexander-ludwig.com/)** (EUI) 
 
 &nbsp;  
