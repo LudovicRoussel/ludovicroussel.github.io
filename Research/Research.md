@@ -6,14 +6,11 @@ title: "Research"
 
 <div class="research-section-title">Work in Progress</div>
 
-
-
 &nbsp;
 
 <div class="paper-title">
 “Households’ Expenditure Commitments: Formation, Heterogeneity and Adjustment to Income Shocks”
 </div>
-
 
 <p align="justify">
 <sub>
