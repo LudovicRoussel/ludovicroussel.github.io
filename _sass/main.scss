@@ -9,10 +9,6 @@ $bodyColor: #000000;
 $navyBlue:  #0b2545;   // titres principaux (Research, nom, etc.)
 $lightBlue: #6fa3d8;   // titres des papiers (chemise)
 
-$bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI",
-            Helvetica, Arial, sans-serif,
-            "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-
 /* ===============================
    Base
    =============================== */
@@ -20,7 +16,9 @@ $bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI",
 body {
   background: $backgroundColor;
   color: $bodyColor;
-  font-family: $bodyFont;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Helvetica, Arial, sans-serif,
+               "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 /* Liens */
@@ -38,7 +36,6 @@ a:hover {
    Header / Site title
    =============================== */
 
-/* Nom du site */
 .site-title,
 .site-title a {
   color: $navyBlue !important;
@@ -59,7 +56,7 @@ main h1 {
   margin-bottom: 0.6em;
 }
 
-/* Ligne uniquement sous le titre de page (Research) */
+/* Ligne uniquement sous le titre de page */
 .page-title {
   border-bottom: 1px solid #e3e6ea;
   padding-bottom: 0.4em;
@@ -69,11 +66,10 @@ main h1 {
    Sous-sections Research
    =============================== */
 
-/* Working Papers / Work in Progress */
 .research-section-title {
-  color: $navyBlue;
+  color: $navyBlue !important;
   font-weight: 650;
-  font-size: 1.05em;   // plus petit que Research
+  font-size: 1.05em;     /* plus petit que Research */
   margin-top: 1.4em;
   margin-bottom: 0.6em;
 }
@@ -83,30 +79,20 @@ main h1 {
    =============================== */
 
 .paper-title {
-  color: $lightBlue;     // bleu clair chemise
-  font-weight: 600;
+  color: $lightBlue;
+  font-weight: 700;      /* gras */
   font-size: 1.05em;
-  margin-bottom: 0.2em;
+  margin-top: 1.2em;     /* espace entre papiers */
+  margin-bottom: 0.6em;
 }
 
 .paper-title a {
   color: $lightBlue;
+  font-weight: 700;
 }
 
 .paper-title a:hover {
   text-decoration: underline;
-}
-/* Titres de papiers : en gras */
-.paper-title,
-.paper-title a {
-  font-weight: 700;   // gras net mais propre
-}
-
-
-/* Espacement entre les papiers */
-.paper-title {
-  margin-top: 1.2em;
-  margin-bottom: 0.6em;
 }
 
 /* ===============================
@@ -125,26 +111,3 @@ h2, h3, h4 {
 p {
   line-height: 1.6;
 }
-
-
-/* === FORCER Research & sous-sections en navy (comme le nom) === */
-
-$pageNavy: #0b2545;
-
-/* Titre de page : Research */
-.page-title,
-.page-title h1,
-h1.page-title,
-main h1 {
-  color: $pageNavy !important;
-}
-
-/* Sous-sections : Working Papers / Work in Progress */
-.research-section-title {
-  color: $pageNavy !important;
-}
-
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/libs/bootstrap/bootstrap.min.css">
-<script defer src="{{ site.baseurl }}/assets/libs/fontawesome/all.min.js"></script>
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-
