@@ -1,12 +1,13 @@
 /* ===============================
-   Global variables
+   Variables
    =============================== */
 
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 
-/* Bleu clair (chemise) */
-$lightBlue: #6fa3d8;
+/* Couleurs */
+$navyBlue:  #0b2545;   // titres principaux (Research, nom, etc.)
+$lightBlue: #6fa3d8;   // titres des papiers (chemise)
 
 $bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI",
             Helvetica, Arial, sans-serif,
@@ -37,73 +38,76 @@ a:hover {
    Header / Site title
    =============================== */
 
-/* Nom du site : "Ludovic Roussel" */
+/* Nom du site */
 .site-title,
 .site-title a {
-  color: $lightBlue !important;
+  color: $navyBlue !important;
   font-weight: 700;
 }
 
 /* ===============================
-   Page titles (Research, Teaching, etc.)
+   Page titles (Research, Teaching…)
    =============================== */
 
 .page-title,
 .page-title h1,
 h1.page-title,
 main h1 {
-  color: $lightBlue !important;
+  color: $navyBlue !important;
   font-size: 2.3em;
   font-weight: 700;
-  margin-bottom: 0.8em;
+  margin-bottom: 0.6em;
 }
 
-/* Supprimer toute ligne sous le titre de page */
+/* Ligne uniquement sous le titre de page (Research) */
 .page-title {
-  border-bottom: none !important;
+  border-bottom: 1px solid #e3e6ea;
+  padding-bottom: 0.4em;
 }
 
 /* ===============================
-   Section titles inside pages
+   Sous-sections Research
    =============================== */
 
 /* Working Papers / Work in Progress */
 .research-section-title {
-  color: $lightBlue;
+  color: $navyBlue;
   font-weight: 650;
-  font-size: 1.05em;   /* plus petit que Research */
+  font-size: 1.05em;   // plus petit que Research
   margin-top: 1.4em;
   margin-bottom: 0.6em;
 }
 
 /* ===============================
-   Other headings (fallback)
+   Titres de papiers
+   =============================== */
+
+.paper-title {
+  color: $lightBlue;     // bleu clair chemise
+  font-weight: 600;
+  font-size: 1.05em;
+  margin-bottom: 0.2em;
+}
+
+.paper-title a {
+  color: $lightBlue;
+}
+
+.paper-title a:hover {
+  text-decoration: underline;
+}
+
+/* ===============================
+   Autres titres (fallback)
    =============================== */
 
 h2, h3, h4 {
-  color: $lightBlue;
+  color: $navyBlue;
   font-weight: 650;
 }
 
 /* ===============================
-   Paper titles
-   =============================== */
-
-.paper-title {
-  color: $bodyColor;
-  font-weight: 600;
-}
-
-.paper-title a {
-  color: $bodyColor;
-}
-
-.paper-title a:hover {
-  color: $lightBlue;
-}
-
-/* ===============================
-   Paragraph spacing (comfort)
+   Confort de lecture
    =============================== */
 
 p {
