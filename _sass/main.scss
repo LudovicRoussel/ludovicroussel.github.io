@@ -113,3 +113,21 @@ h2, h3, h4 {
 p {
   line-height: 1.6;
 }
+
+
+/* === FORCER Research & sous-sections en navy (comme le nom) === */
+
+$pageNavy: #0b2545;
+
+/* Titre de page : Research */
+.page-title,
+.page-title h1,
+h1.page-title,
+main h1 {
+  color: $pageNavy !important;
+}
+
+/* Sous-sections : Working Papers / Work in Progress */
+.research-section-title {
+  color: $pageNavy !important;
+}
