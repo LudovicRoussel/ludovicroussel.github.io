@@ -3,7 +3,7 @@ layout: home
 title: "Ludovic Roussel"
 ---
 
-I am a 3rd year PhD Candidate in economics at the European University Institute (EUI), under the supervision of [Alexander Ludwig](https://alexander-ludwig.com/) and [Alexander Monge-Naranjo](https://alexandermonge.com/).
+I am a 3rd year PhD Candidate in economics at the European University Institute (EUI), under the supervision of [Alexander Ludwig](https://alexander-ludwig.com/)(EUI) and [Alexander Monge-Naranjo](https://alexandermonge.com/)(FED Atlanta).
 
 My research lies at the intersection of household finance, macroeconomics, and public policy. I study how households respond to income and expenditure risk, and how these risks interact with expenditure commitments, savings behavior, and inequality. My work combines microdata analysis (administrative and survey data) with quantitative heterogeneous-agent models to assess welfare and policy implications.
 
