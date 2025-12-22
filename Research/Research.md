@@ -5,18 +5,19 @@ title: "Research"
 ---
 
 <div align="center">
- <b style="color:Navy;">Working Papers</b>
+ <b class="section-title">Working Papers</b>
 </div>
 &nbsp;
 
 &nbsp;
 
 <div align="center">
- <b style="color:Navy;">Work in Progress</b>
+  <b class="section-title">Work in Progress</b>
 </div>
+
 &nbsp;
 
-"[Households’ Expenditure Commitments: Formation, Adjustment to Income Shocks, and Aggregate Demand]"
+"[Households’ Expenditure Commitments: Formation, Heterogeneity and Adjustment to Income Shocks]"
 
 <p align="justify">
 <sub>
