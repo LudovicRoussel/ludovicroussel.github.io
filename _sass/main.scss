@@ -6,8 +6,8 @@ $backgroundColor: #ffffff;
 $bodyColor: #000000;
 
 /* Couleurs */
-$navyBlue:  #0b2545;   // titres principaux (Research, nom, etc.)
-$lightBlue: #6fa3d8;   // titres des papiers (chemise)
+$navyBlue:  #0b2545;
+$lightBlue: #6fa3d8;   // bleu des titres et liens principaux
 
 /* ===============================
    Base
@@ -37,8 +37,10 @@ a:hover {
    =============================== */
 
 .site-title,
-.site-title a {
-  color: $navyBlue !important;
+.site-title a,
+header .fs-4.fw-bold,
+header nav a {
+  color: $lightBlue !important;
   font-weight: 700;
 }
 
@@ -50,7 +52,7 @@ a:hover {
 .page-title h1,
 h1.page-title,
 main h1 {
-  color: $navyBlue !important;
+  color: $lightBlue !important;
   font-size: 2.3em;
   font-weight: 700;
   margin-bottom: 0.6em;
@@ -67,7 +69,7 @@ main h1 {
    =============================== */
 
 .research-section-title {
-  color: $navyBlue !important;
+  color: $lightBlue !important;
   font-weight: 650;
   font-size: 1.05em;     /* plus petit que Research */
   margin-top: 1.4em;
@@ -100,7 +102,7 @@ main h1 {
    =============================== */
 
 h2, h3, h4 {
-  color: $navyBlue;
+  color: $lightBlue;
   font-weight: 650;
 }
 
