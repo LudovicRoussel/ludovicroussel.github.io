@@ -7,18 +7,12 @@ title: "Research"
 <div class="research-section-title">Work in Progress</div>
 
 <div class="paper-title">
-“Households’ Expenditure Commitments: Formation, Heterogeneity and Adjustment to Income Shocks”
+“Household Expenditure Commitments and Income Shocks”
 </div>
 
 <p align="justify">
 <sub>
-This project studies how households’ fixed expenditure commitments shape their ability to adjust consumption following income shocks. Using data from the Panel Study of Income Dynamics (PSID), I document who commits to fixed expenditures, why commitment levels differ across households, and how commitments affect adjustment margins after income shocks. I then develop a heterogeneous-agent incomplete-markets model with two motives for expenditure commitments: an insurance motive and a long-term investment motive. The model replicates the empirical patterns observed in the data and allows me to quantify how commitment levels shape precautionary savings, consumption responses to income shocks and the welfare implications. The framework highlights when households become particularly exposed to risk and identifies circumstances under which targeted fiscal interventions can deliver strong welfare gains.
-</sub>
-</p>
-
-<p align="justify">
-<sub>
-<b>Presented at:</b> EUI 2nd Year May Forum; PSID Annual Users Conference (2025)
+<b>Presented at:</b> EUI May Forum (2025); PSID Annual Users Conference (2025); RES (2026)*
 </sub>
 </p>
 
@@ -37,7 +31,7 @@ This project studies how households’ fixed expenditure commitments shape their
 
 
 <div class="paper-title">
-“Households Expenditure and Income Risks”
+“Unemployment Risk, Household Demand, and Local Spillovers”
 </div>
 
 
