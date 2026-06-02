@@ -229,8 +229,9 @@ a:hover {
 
 .contact {
   display: flex;
-  flex-direction: column;
-  gap: 10px;
+  align-items: baseline;
+  gap: 12px 22px;
+  flex-wrap: wrap;
   margin-top: 18px;
 }
 
@@ -249,7 +250,7 @@ a:hover {
 
 .social-links {
   display: flex;
-  gap: 12px;
+  gap: 16px;
   flex-wrap: wrap;
 }
 
