@@ -49,7 +49,7 @@ title: "Ludovic Roussel"
     </article>
 
     <article class="paper">
-      <h4 class="paper-title">Unemployment Risk, Household Demand, and Local Spillovers</h4>
+      <h4 class="paper-title">Local Unemployment Risk, Household Demand, and Labor-Market Responses</h4>
     </article>
   </div>
 </section>

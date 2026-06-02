@@ -31,7 +31,7 @@ title: "Research"
 
 
 <div class="paper-title">
-“Unemployment Risk, Household Demand, and Local Spillovers”
+“Local Unemployment Risk, Household Demand, and Labor-Market Responses”
 </div>
 
 
