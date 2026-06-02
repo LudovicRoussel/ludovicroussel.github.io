@@ -47,7 +47,8 @@ a:hover {
 }
 
 .wrap {
-  width: min(100%, $maxWidth);
+  width: 100%;
+  max-width: $maxWidth;
   margin: 0 auto;
   padding: 0 32px;
 }
@@ -62,7 +63,8 @@ a:hover {
 }
 
 .nav-inner {
-  width: min(100%, $maxWidth);
+  width: 100%;
+  max-width: $maxWidth;
   margin: 0 auto;
   padding: 18px 32px;
   display: flex;
