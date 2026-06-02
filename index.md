@@ -15,6 +15,7 @@ title: "Ludovic Roussel"
       <div class="cta-row">
         <a class="btn btn-ghost" href="{{ site.baseurl }}/assets/CV_Roussel_Ludovic.pdf" target="_blank" rel="noopener">CV</a>
         <a class="btn btn-primary" href="#research">Research</a>
+        <a class="btn btn-ghost" href="https://www.eui.eu/people?id=ludovic-roussel" target="_blank" rel="noopener">EUI</a>
       </div>
     </div>
 
