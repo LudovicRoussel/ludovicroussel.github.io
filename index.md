@@ -13,8 +13,7 @@ title: "Ludovic Roussel"
         My research interests are in household finance, labor economics, and public finance, with a particular emphasis on microdata, heterogeneity, and quantitative models.
       </p>
       <div class="cta-row">
-        <a class="btn btn-filled" href="{{ site.baseurl }}/assets/CV_Roussel_Ludovic.pdf" target="_blank" rel="noopener">Curriculum Vitae</a>
-        <a class="btn btn-primary" href="#research">Work in Progress</a>
+        <a class="btn btn-primary" href="{{ site.baseurl }}/assets/CV_Roussel_Ludovic.pdf" target="_blank" rel="noopener">Curriculum Vitae</a>
       </div>
     </div>
 
