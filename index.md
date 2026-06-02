@@ -14,7 +14,7 @@ title: "Ludovic Roussel"
       </p>
       <div class="cta-row">
         <a class="btn btn-filled" href="{{ site.baseurl }}/assets/CV_Roussel_Ludovic.pdf" target="_blank" rel="noopener">Curriculum Vitae</a>
-        <a class="btn btn-primary" href="#research">Research</a>
+        <a class="btn btn-primary" href="#research">Work in Progress</a>
       </div>
     </div>
 
@@ -35,7 +35,7 @@ title: "Ludovic Roussel"
 <section class="research" id="research">
   <div class="wrap">
     <div class="section-head">
-      <h2>Research</h2>
+      <h2>Work in Progress</h2>
       <span class="rule"></span>
     </div>
 
