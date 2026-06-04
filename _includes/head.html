@@ -1,7 +1,52 @@
 <head>
+  {% assign seo_title = page.title | default: site.title %}
+  {% assign seo_description = page.description | default: site.description %}
+  {% assign canonical_url = page.url | replace: 'index.html', '' | absolute_url %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <title>{{ site.title }}</title>
+  <title>{% if seo_title == "" or seo_title == site.title %}{{ site.title }}{% else %}{{ seo_title }} | {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ seo_description | strip_html | strip | escape }}">
+  <meta name="author" content="Ludovic Roussel">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ canonical_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{% if seo_title == "" or seo_title == site.title %}{{ site.title }}{% else %}{{ seo_title }} | {{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ seo_description | strip_html | strip | escape }}">
+  <meta property="og:url" content="{{ canonical_url }}">
+  <meta property="og:image" content="{{ '/assets/picture.jpg' | absolute_url }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if seo_title == "" or seo_title == site.title %}{{ site.title }}{% else %}{{ seo_title }} | {{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ seo_description | strip_html | strip | escape }}">
+  <meta name="twitter:image" content="{{ '/assets/picture.jpg' | absolute_url }}">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ludovic Roussel",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "image": "{{ '/assets/picture.jpg' | absolute_url }}",
+      "jobTitle": "Ph.D. Candidate in Economics",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "European University Institute",
+        "url": "https://www.eui.eu/"
+      },
+      "email": "mailto:ludovic.roussel@eui.eu",
+      "sameAs": [
+        "https://www.eui.eu/people?id=ludovic-roussel",
+        "https://bsky.app/profile/ludovicroussel.bsky.social",
+        "https://x.com/Ludo_Rl"
+      ],
+      "knowsAbout": [
+        "Household finance",
+        "Labor economics",
+        "Public finance",
+        "Microdata",
+        "Quantitative models"
+      ]
+    }
+  </script>
   
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-56YQTKK9HE"></script>
