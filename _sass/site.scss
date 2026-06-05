@@ -127,12 +127,13 @@ a:hover {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.45fr) minmax(260px, 0.85fr);
+  grid-template-columns: minmax(260px, 0.85fr) minmax(0, 1.45fr);
   gap: 64px;
   align-items: center;
 }
 
 .hero-copy {
+  grid-column: 2;
   padding-top: 0;
 }
 
@@ -231,7 +232,9 @@ a:hover {
 }
 
 .portrait-panel {
-  justify-self: end;
+  grid-column: 1;
+  grid-row: 1;
+  justify-self: start;
   max-width: 360px;
 }
 
@@ -475,10 +478,14 @@ p {
   }
 
   .hero-copy {
+    grid-column: 1;
+    grid-row: 2;
     padding-top: 0;
   }
 
   .portrait-panel {
+    grid-column: 1;
+    grid-row: 1;
     justify-self: start;
     max-width: 312px;
   }
