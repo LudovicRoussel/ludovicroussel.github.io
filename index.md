@@ -40,7 +40,7 @@ title: "Ludovic Roussel"
 
     <article class="paper">
       <h4 class="paper-title">Household Expenditure Commitments and Income Shocks</h4>
-      <p class="meta"><strong>Presented at:</strong> EUI May Forum (2025); PSID Annual Users Conference (2025); RES (2026)*</p>
+      <p class="meta"><strong>Presented at:</strong> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026)*</p>
     </article>
 
     <article class="paper">
@@ -49,7 +49,7 @@ title: "Ludovic Roussel"
     </article>
 
     <article class="paper">
-      <h4 class="paper-title">Local Unemployment Risk, Household Demand, and Labor-Market Responses</h4>
+      <h4 class="paper-title">Household Responses to Local Mass Layoff Announcements</h4>
     </article>
   </div>
 </section>
