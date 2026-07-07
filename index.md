@@ -40,7 +40,7 @@ title: "Ludovic Roussel"
 
     <article class="paper">
       <h4 class="paper-title">Household Expenditure Commitments and Income Shocks</h4>
-      <p class="meta"><strong>Presented at:</strong> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026)*</p>
+      <p class="meta"><strong>Presented at:</strong> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026); Napoli PhD Workshop (2026)*</p>
     </article>
 
     <article class="paper">
