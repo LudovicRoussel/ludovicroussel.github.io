@@ -82,7 +82,7 @@ title: "Ludovic Roussel"
 
     <article class="paper">
       <h4 class="paper-title">Macroeconomics I (PhD)</h4>
-      <p class="meta">European University Institute, Winter 2025</p>
+      <p class="meta">European University Institute, Fall 2025</p>
       <p class="authors">Teaching Assistant to Prof. <a href="https://alexander-ludwig.com/" target="_blank" rel="noopener">Alexander Ludwig</a></p>
     </article>
   </div>
