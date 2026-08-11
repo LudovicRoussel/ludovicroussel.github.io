@@ -10,7 +10,7 @@ title: "Ludovic Roussel"
         I am a Ph.D. candidate in Economics at the European University Institute (EUI) in Florence, Italy, under the supervision of Professors <strong><a href="https://alexander-ludwig.com/" target="_blank" rel="noopener">Alexander Ludwig</a></strong> and <strong><a href="https://alexandermonge.com/" target="_blank" rel="noopener">Alexander Monge-Naranjo</a></strong>.
       </p>
       <p class="announce">
-        My research interests are in applied macroeconomics and household finance, with an emphasis on microdata, heterogeneity, and quantitative models.
+        My research interests are in applied macroeconomics, consumption economics, and household finance. My work combines microdata, econometric methods, and structural models to study household behavior and the effects of economic shocks.
       </p>
       <div class="cta-row">
         <a class="btn btn-primary" href="{{ site.baseurl }}/assets/CV_Roussel_Ludovic.pdf" target="_blank" rel="noopener">Curriculum Vitae</a>
