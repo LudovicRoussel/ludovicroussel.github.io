@@ -12,7 +12,7 @@ title: "Research"
 
 <p align="justify">
 <sub>
-<b>Presented at:</b> EUI May Forum (2025); PSID Annual Users Conference (2025); RES (2026)*
+<b>Presented at:</b> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026); Napoli PhD Workshop (2026); 3rd Tor Vergata PhD Conference*
 </sub>
 </p>
 
@@ -31,8 +31,14 @@ title: "Research"
 
 
 <div class="paper-title">
-“Local Unemployment Risk, Household Demand, and Labor-Market Responses”
+“Layoff Announcements and Consumption Behavior”
 </div>
+
+<p align="justify">
+<sub>
+with <a href="https://alessiapapini.github.io/my-website/" target="_blank">Alessia Papini</a>
+</sub>
+</p>
 
 
 &nbsp;
@@ -47,7 +53,7 @@ title: "Research"
 </div>
 
 <p>
-<em>Institut Avant-Garde (IAG), january 2025 (in french)</em>
+<em>Institut Avant-Garde (IAG), january 2025 (French)</em>
 </p>
 
 <div class="paper-title">
@@ -57,5 +63,5 @@ title: "Research"
 </div>
 
 <p>
-<em>Institut Avant-Garde (IAG), september 2025 (in french)</em>
+<em>Institut Avant-Garde (IAG), september 2025 (French)</em>
 </p>

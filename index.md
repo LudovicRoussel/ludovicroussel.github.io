@@ -40,7 +40,7 @@ title: "Ludovic Roussel"
 
     <article class="paper">
       <h4 class="paper-title">Household Expenditure Commitments and Income Shocks</h4>
-      <p class="meta"><strong>Presented at:</strong> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026); Napoli PhD Workshop (2026)</p>
+      <p class="meta"><strong>Presented at:</strong> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026); Napoli PhD Workshop (2026); 3rd Tor Vergata PhD Conference*</p>
     </article>
 
     <article class="paper">
@@ -49,7 +49,8 @@ title: "Ludovic Roussel"
     </article>
 
     <article class="paper">
-      <h4 class="paper-title">Household Responses to Local Mass Layoff Announcements</h4>
+      <h4 class="paper-title">Layoff Announcements and Consumption Behavior</h4>
+      <p class="authors">with <a href="https://alessiapapini.github.io/my-website/" target="_blank" rel="noopener">Alessia Papini</a></p>
     </article>
   </div>
 </section>
@@ -63,12 +64,12 @@ title: "Ludovic Roussel"
 
     <article class="paper">
       <h4 class="paper-title"><a href="https://www.institutavantgarde.fr/le-cout-electoral-de-linflation/" target="_blank" rel="noopener">Le coût électoral de l'inflation</a></h4>
-      <p class="meta">Institut Avant-Garde (IAG), January 2025, in French</p>
+      <p class="meta">Institut Avant-Garde (IAG), January 2025 (French)</p>
     </article>
 
     <article class="paper">
       <h4 class="paper-title"><a href="https://www.institutavantgarde.fr/letat-providence-a-lepreuve-de-nouvelles-crises/" target="_blank" rel="noopener">L'État-providence à l'épreuve de nouvelles crises</a></h4>
-      <p class="meta">Institut Avant-Garde (IAG), September 2025, in French</p>
+      <p class="meta">Institut Avant-Garde (IAG), September 2025 (French)</p>
     </article>
   </div>
 </section>
