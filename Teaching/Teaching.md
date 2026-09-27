@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: "Teaching"
 urlcolor: blue
 ---
- **Macroeconomics I (PhD)** — European University Institute, Fall 2025  
+ **Macroeconomics I (PhD)** — European University Institute, Fall 2025, 2026  
 Teaching Assistant to Prof. **[Alexander Ludwig](https://alexander-ludwig.com/)**
 
 &nbsp;  
