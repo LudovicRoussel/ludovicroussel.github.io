@@ -12,7 +12,7 @@ title: "Research"
 
 <p align="justify">
 <sub>
-<b>Presented at:</b> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026); Napoli PhD Workshop (2026); 3rd Tor Vergata PhD Conference*
+<b>Presented at:</b> EUI May Forum (2025); PSID Annual Users Conference (2025); Royal Econometric Society (RES) (2026); Napoli PhD Workshop (2026); 3rd Tor Vergata PhD Conference (2026) *
 </sub>
 </p>
 
